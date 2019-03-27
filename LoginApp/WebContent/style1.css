@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+body{
+    background: url("https://www.gannett-cdn.com/-mm-/9e0b71c5c4cf27a538b4919e0ee4e9a592b5c119/c=0-250-4800-2950/local/-/media/2017/06/28/SiouxFalls/B9328255156Z.1_20170628150636_000_GKKIRJ35Q.1-0.jpg?width=3200&height=1680&fit=crop");
+    background-repeat: no-repeat;
+background-size: cover;
+height: auto;
+width: auto; 
+font-size: 50px;
+
+}
+.container{
+ margin-top: 10%;
+ margin-left: 5%;
+ font-size: 50px;
+}
+
+.successful{
+    margin-top: 1px;
+}
